@@ -1,0 +1,647 @@
+OXFORD REVIEW OF EDUCATION
+2020, VOL. 46, NO. 4, 501–513
+https://doi.org/10.1080/03054985.2020.1765756
+
+Deﬁning and understanding dyslexia: past, present and future
+Margaret J. Snowling
+
+a
+
+, Charles Hulmeb and Kate Nationc
+
+a
+
+Department of Experimental Psychology and St John’s College, University of Oxford, Oxford, UK;
+Department of Education, University of Oxford, Oxford, UK; cDepartment of Experimental Psychology,
+University of Oxford, Oxford, UK
+b
+
+ABSTRACT
+
+KEYWORDS
+
+Dyslexia is a diﬃculty in learning to decode (read aloud) and to spell.
+DSM5 classiﬁes dyslexia as one form of neurodevelopmental disorder.
+Neurodevelopmental disorders are heritable, life-long conditions
+with early onset. For many years, research on dyslexia proceeded on
+the basis that it was a speciﬁc learning diﬃculty – speciﬁc meaning
+that the diﬃculty could not be explained in terms of obvious causes
+such as sensory problems or general learning diﬃculties (low IQ).
+However, the failure to ﬁnd qualitative diﬀerences in reading, and
+phonological skills, between children with dyslexia and children with
+more general learning problems led this kind of ‘discrepancy’ deﬁnition to fall from favour. The Rose Review stated that dyslexia can occur
+across the IQ range and that poor decoding skills require the same
+kinds of intervention irrespective of IQ. In this paper, we argue that
+loosening the criteria for dyslexia has inﬂuenced common understanding of the condition and led to diagnostic confusion. In the
+longer term, the use of the term may need to change. Implications
+for research and practice are discussed.
+
+Dyslexia; reading disorder;
+reading diﬃculties; history;
+deﬁnition
+
+A central theme in the history of dyslexia is the tension between the speciﬁcity of the
+disorder and its complex association with other forms of learning disability. Since its
+earliest description over 100 years ago, through the case ﬁles of the Word Blindness
+Centre (Whyte, this issue) and of Tim Miles (Evans, this issue) to more recent neuropsychological case studies (e.g. JM; Snowling & Hulme, 1989) is the notion that dyslexia
+is speciﬁc – a particular problem with reading and spelling that is somehow unexpected and therefore requiring a diagnosis and an explanation, as well as specialist
+intervention. At the same time, the history of dyslexia captures a sense of complexity
+that there might be ‘several “species” of dyslexia’ and it reﬂects a ‘family of disabilities’.
+These tensions play out in perennial discussions surrounding the deﬁnition of dyslexia,
+whether there are diﬀerent ‘subtypes’ and questions about whether it even exists. In
+this article, we argue that loosening the criteria for dyslexia means that a far wider
+range of individuals now receive the label; furthermore, by understanding the cooccurrence of dyslexia with other disorders, we reach a better understanding of the
+heterogeneity of its manifestations.
+
+CONTACT Margaret J. Snowling
+maggie.snowling@sjc.ox.ac.uk
+John’s College, University of Oxford, Oxford OX1 3JP, UK
+
+Department of Experimental Psychology and St
+
+© 2020 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License
+(http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.
+
+502
+
+M. J. SNOWLING ET AL.
+
+Dyslexia – the discrepancy deﬁnition
+For many years, research on dyslexia proceeded on the basis that it was a speciﬁc learning
+diﬃculty. The term ‘speciﬁc’ here referred to the fact that children with dyslexia have
+diﬃculties in the domain of reading (and spelling) that are ‘out of line’ with expectation,
+given age and IQ. Educational and clinical psychology practice was to look for
+a discrepancy between expected and actual reading attainment in order to ‘diagnose’
+dyslexia. However, the failure to ﬁnd qualitative diﬀerences in reading (and the phonological skills that underpin it) between children with dyslexia and children with more
+general learning problems led this kind of ‘discrepancy’ deﬁnition to lose credibility. To
+understand the implications of moving away from a discrepancy-based deﬁnition, we
+begin by reviewing how such a deﬁnition was operationalised and the evidence against
+its validity.
+Originally conceived of as a measure of General Cognitive Ability or ‘g’, an individual’s
+IQ is simply their score on an IQ test. The most widely used measures of IQ are the
+Wechsler Scales which can be used to assess preschoolers, children and adults (e.g.
+Wechsler, 1974). For present purposes, it is important to note that these scales separate
+tests tapping verbal skills from tests tapping non-verbal or performance skills (though the
+division is not clean). The verbal tests include measures of vocabulary, verbal concepts,
+knowledge of the world and mental arithmetic. The performance tests primarily require
+practical responses, such as putting blocks together to make a pattern, or pieces of
+a puzzle to make an object; unlike the verbal tests, they are timed and hence tap speed
+of processing. An individual who has taken an IQ test typically obtains a Verbal IQ,
+Performance IQ and a Full-Scale IQ combining across both. Assuming no obvious neurological or sensory impairment and no lack of educational opportunity, children with
+average or above average Full-Scale IQ who nevertheless show problems with reading
+and spelling may be classiﬁed as dyslexic. This category corresponds to ‘Speciﬁc Dyslexia’,
+as used in the context of the Word Blind Centre (Naidoo, 1972). Dropping the discrepancy
+deﬁnition broadens this category.
+One of the early critics of the discrepancy deﬁnition of dyslexia was Stanovich (1991).
+There were two main tenets of Stanovich’s argument against this approach. First, learning
+to read has a positive eﬀect on verbal skills and vocabulary. Children who are good at
+reading read more and therefore have a greater opportunity to learn new information via
+print than children who are poor at reading. The corollary of this is a ‘Matthew eﬀect’: the
+verbal skills of children who read less fail to keep pace with their peers (Stanovich, 1986).
+On this view, lower Verbal IQ (and, by extension, Full-scale IQ too) can be a consequence
+of poor reading and therefore the use of an IQ-based ‘discrepancy’ formula to diﬀerentiate
+diﬀerent groups of readers is ﬂawed. Second, Stanovich and Siegel (1994) showed that
+irrespective of IQ, poor readers experience the same core phonological diﬃculties (problems in dealing with the speech sounds of words). Given that reading skills show
+a continuous distribution in the population and that there are no clear qualitative or
+quantitative diﬀerences in reading as a function of discrepancy, eﬀectively this means
+using the term ‘dyslexia’ for any cases of poor reading. While defensible on statistical
+grounds, to regard dyslexia ‘just’ as poor reading (and spelling) fails to capture the fact
+that it has an early onset (in preschool) and is persistent over time.
+
+OXFORD REVIEW OF EDUCATION
+
+503
+
+In an attempt to reconcile these views, the Diagnostic and Statistical Manual of the
+American Psychiatric Association (American Psychiatric Association, 2013) uses the term
+‘Speciﬁc Learning Disorder with impairment in reading’ to describe what others, and
+lobbyists in particular, call dyslexia. The DSM5 deﬁnition notes that the term refers to
+a pattern of learning diﬃculties characterised by problems with accurate or ﬂuent word
+reading, poor decoding, and poor spelling ‘that must have persisted for at least 6 months,
+despite the provision of interventions that target those diﬃculties’ (p. 66). It also notes
+that a good indicator is ‘low academic achievement for age or average achievement that
+is sustainable only by extraordinarily high levels of eﬀort or support’ (p. 69).
+In summary, dropping the IQ-discrepancy deﬁnition of dyslexia has proven controversial for many, particularly for those who see ‘dyslexia’ as a special category of disorder and
+reject the view that it is only a reﬂection of poor reading. We will argue here that it is
+important is to have a better understanding of the dimensionality of reading disorders
+and how they frequently occur with other diﬃculties.
+
+Putting learning into the deﬁnition of dyslexia and the phonological deﬁcit
+hypothesis
+Although intellectual disability precludes a diagnosis of speciﬁc learning disorder, once
+the practice of restricting the diagnosis of dyslexia to those principally with aboveaverage IQ is abandoned, the kinds of learning diﬃculties to which the label ‘dyslexia’
+applies widen and now include children with a broader range of learning problems. Such
+children have a range of problems with reading which are not best characterised as
+aﬀecting only accuracy and ﬂuency. A more principled approach then is to ﬁrst consider
+the demands of learning to read and then consider how speciﬁc aspects of learning are
+aﬀected in diﬀerent ‘types’ of poor reader.
+At the core of dyslexia is a diﬃculty in learning to decode and to spell. It is important
+therefore that our understanding of dyslexia is cast within a framework of learning to read.
+Reading development is a complex process (for a review see Castles et al., 2018). In simple
+terms, learning to read starts with learning mappings between print and sound. In alphabetic
+languages, the mappings are at a ﬁne-grain between phonemes (the smallest units of speech)
+and graphemes (letter and letter groups), and in English there are many inconsistencies in the
+mappings, making learning to read diﬃcult. As children grasp this alphabetic principle, they
+can translate print into sound and from that access the meaning of familiar words. This
+decoding process provides a mechanism for acquiring detailed orthographic knowledge
+about how written language works. Over time, and with reading experience, reliance on
+overt decoding declines as word recognition becomes increasingly eﬃcient and automatised,
+allowing children to go from print to meaning rapidly and eﬀortlessly.
+More formally, we can consider reading development within the context of the inﬂuential
+‘triangle model’, a computational model devised by Seidenberg and McClelland (1989). The
+triangle model comprises three sets of representations (phonological, orthographic and
+semantic) that interact and connect together to constitute the word recognition system.
+Well before learning to read, children have well-developed phonological knowledge
+(of the sounds of words) that has connections with their semantic system (the meaning of
+words). Faced with written words, children need to form mappings from orthography to
+phonology and thus to meaning. Semantic knowledge can also support the development
+
+504
+
+M. J. SNOWLING ET AL.
+
+of word reading, providing the means to adjust a partial decoding attempt (such as
+reading school as ‘s-chule’) and bring it in line with a known word. Reading experience
+allows orthographic representations to become structured and for the whole system to
+embody the statistical regularities that exist between print and sound, and print and
+meaning.
+In dyslexia, children are slow to learn to decode words and become ﬂuent; they also
+struggle to generalise, that is, to read novel words they have never seen before. It is well
+established that in cognitive terms, dyslexia is caused by problems at the level of
+phonological representation (e.g. Shankweiler et al., 1979; Snowling & Hulme, 1994).
+This hypothesis has its roots in long-standing clinical observations, arguably starting
+with Orton (1937) and continuing with Bannatyne (1974), who noted diﬃculties in
+‘auditory sequencing, auditory discrimination, and associating auditory symbols with
+sequences of visual symbols’. A considerable body of research has since detailed the
+nature of ‘auditory’ problems in dyslexia, narrowing the deﬁcit to one aﬀecting the sound
+(phonological) structure of speech (Griﬃths & Snowling, 2001; Vellutino et al., 2004):
+problems with phonology lead to diﬃculty in learning mappings between orthography
+and phonology and other diﬃculties which include problems learning new spoken words,
+poor verbal short-term memory and problems with word retrieval and picture naming
+(see Snowling, 2019 for review). Although learning to read has a reciprocal inﬂuence on
+phonological skills (Morais & Kolinsky, 2005), there is good evidence that phonological
+deﬁcits in dyslexia are present in the preschool years, long before reading instruction
+begins (Snowling, Nash et al., 2019). Moreover, training phonological skills and letter
+knowledge improves reading ability, strengthening the claim that phonological skills are
+causally related to reading development (Hulme et al., 2012).
+Nonetheless, despite the strength of the phonological deﬁcit hypothesis, it seems that
+phonological diﬃculties are neither necessary nor suﬃcient to account for dyslexia
+(Pennington, 2006). While poor phonology is the impairment most consistently associated with dyslexia, many children at family risk of dyslexia who do not succumb to
+reading diﬃculties also have problems with phonological awareness (Snowling & MelbyLervåg, 2016) and many individuals with dyslexia have deﬁcits outside of the phonological domain (Saksida et al., 2016; White et al., 2006). According to the inﬂuential theory by
+Pennington (2006), dyslexia is the outcome of multiple risks which accumulate towards
+a threshold for what is usually termed ‘diagnosis’. What are these additional risks and how
+can they be conceptualised?
+To consider these questions, we can begin by looking within the reading system itself.
+While learning to read depends initially on learning mappings between orthography and
+phonology, other factors are also important. Semantic knowledge adds another source of
+variation: children with low language show relative weaknesses in learning to read words,
+especially evident for those words that are diﬃcult to decode (Nation & Snowling, 1998).
+More generally, longitudinal studies show that preschool variations in oral language are
+associated with word reading ability in 8–9 year-olds (Hulme et al., 2015). Other research
+has focussed more directly on the learning mechanisms involved and asked whether the
+reading diﬃculties seen in dyslexia are associated with diﬀerences in paired-associate
+learning or statistical learning (see Nation & Mak, 2019 for a review). In addition, some
+children have been shown to have particular diﬃculty with letter position coding, making
+errors when dealing with words where precision is needed (e.g. pirates and parties; smile
+
+OXFORD REVIEW OF EDUCATION
+
+505
+
+and slime; Kohnen et al., 2012). Together these ﬁndings indicate that an individual child’s
+score on a standardised test of word reading reﬂects multiple sources of variation (and
+diﬃculty). As computational models make clear, dyslexia is characterised by heterogeneity and individual diﬀerences (Harm & Seidenberg, 1999; Perry et al., 2019). However, to
+understand dyslexia fully we need to look beyond the details of the reading system itself
+and ask how additional factors inﬂuence reading and its development.
+In summary, some of the complexity associated with dyslexia arises because the
+predominant proximal cause – a phonological deﬁcit – is often not the only deﬁcit that
+is observed. Moreover, phonological skills are themselves dimensional and can aﬀect one
+or more aspects of reading. In particular, if the phonological diﬃculties occur as
+a ‘downstream’ eﬀect of earlier language problems then reading comprehension as well
+as word decoding will be signiﬁcantly aﬀected.
+
+Comorbidities of dyslexia
+Comorbidity refers to the co-occurrence between two (or more) disorders in the same
+individual. Comorbidity can be found between disorders within the same diagnostic
+grouping, e.g. reading disorder and mathematics disorder (both learning disorders with
+shared risk factors) as well as between disorders from diﬀerent diagnostic groupings, such
+as between reading disorder and behavioural and emotional disorders (Angold et al.,
+1999). Rates of comorbidity between reading disorder and other neurodevelopmental
+disorders vary widely but, on average, about 40% of the children with a reading disorder/
+dyslexia will have another disorder as well (Moll et al., 2020). Many children with dyslexia
+have oral language problems extending well beyond the phonological domain. This was
+recognised by the Invalid Child’s Aid Association in setting up the Word Blind Centre
+(Whyte, this issue) and is highlighted by Maughan et al. (2020) drawing on data from the
+Isle of Wight studies in the 1960s. An inevitable consequence of removing the discrepancy
+deﬁnition is that more children with poor reading in the context of broader and more
+serious language diﬃculties will be labelled ‘dyslexic’. Since reading for meaning draws on
+language skills, it follows that many poor readers also have poor reading comprehension
+skills. Thus, whereas in classic discrepancy-deﬁned dyslexia, reading comprehension is
+only an issue insofar as poor decoding presents a bottleneck to the construction of
+meaning, this is not the case for children with dyslexia who have co-occurring language
+problems; these children have poor reading comprehension too (Bishop & Snowling,
+2004).
+Some children with dyslexia meet criteria for Developmental Language Disorder (DLD),
+a disorder characterised by persistent diﬃculties in expressive and/or receptive language
+(Bishop et al., 2017). While usually considered a communication disorder separate from
+learning disorders, DLD is a major risk factor for dyslexia. Indeed, McArthur et al. (2000)
+showed that among children with speciﬁc reading diﬃculties (dyslexia), some 40% had
+signiﬁcant language impairments; on the other hand, children who enter school with DLD
+are at high risk of literacy diﬃculties (Bishop & Adams, 1990). In short, the boundaries of
+dyslexia are not clear-cut: it is not uncommon for children with dyslexia to have language
+problems and some children also meet clinical criteria for DLD (Catts et al., 2005;
+Snowling, Nash et al., 2019). These language problems are under-diagnosed but are likely
+to aﬀect response to intervention (Adlof & Hogan, 2019).
+
+506
+
+M. J. SNOWLING ET AL.
+
+DLD is not the only disorder that co-occurs with dyslexia. Dyslexia is also often
+comorbid with attentional and motor coordination problems (Gooch et al., 2014;
+Rochelle & Talcott, 2006). There is also an overlap between dyslexia and speech sound
+disorder (Pennington & Bishop, 2009), socio-emotional and behavioural disorders (Carroll
+et al., 2005) and internalising problems such as anxiety and depression (Francis et al.,
+2019). None of these comorbidities should be viewed as ‘core’ features of dyslexia, but
+they can complicate both its presentation and response to intervention (Rose, 2009).
+Importantly for the present discussion, following relaxation of the discrepancy deﬁnition
+and hence the IQ cut-oﬀ, the number of ‘symptoms’ co-occurring with dyslexia has
+increased.
+Another disorder that is frequently comorbid with dyslexia is mathematics disorder (or
+dyscalculia). Like reading disorder, mathematics disorder is classiﬁed as a speciﬁc learning
+disorder in DSM5 (American Psychiatric Association, 2013); it is comorbid with dyslexia in
+between 30% and 70% of the cases (Landerl & Moll, 2010). Like reading, mathematics is
+also a complex skill with multiple components. The overlap with dyslexia is high because
+many aspects of mathematics depend on verbal skills, e.g. number knowledge, counting,
+retrieval of number facts and verbal problem solving (Göbel & Snowling, 2010; Moll et al.,
+2018). However, mathematics also involves non-verbal skills; these include the ability to
+estimate numerosity and to compare diﬀering magnitudes (Malone et al., in press).
+Further, numeracy problems have been associated with poor visual-spatial skills, poor
+executive function and working memory deﬁcits; such deﬁcits are commonly features of
+the kinds of non-verbal learning diﬃculty associated with lower Performance IQ (Gillberg
+& Gillberg, 1989). We can think of IQ as a broad measure of many aspects of cognition
+(including language, spatial, and attentional skills). Statistically, if we insist that only
+children with average IQ can be diagnosed with dyslexia, this will make dyslexia appear
+to be a speciﬁc disorder (because children with language or attentional problems will
+tend on average to have lower than average IQs and so fail to be diagnosed as dyslexic).
+In summary, we argue that cases of ‘speciﬁc dyslexia’ exist and they are most apparent
+when a strict discrepancy deﬁnition (reading poorer than expected for a child’s age and IQ) is
+adopted. However, when it is dropped, a wider range of diﬃculties are observed among
+children with reading disorders. The clinical and educational reality is that for many children,
+poor reading sits within a constellation of diﬃculties each of which represents a dimension. As
+the history of dyslexia shows, these are far from newly recognised issues; they have dogged
+dyslexia since it was ﬁrst identiﬁed in the 19th century (Kirby, this issue).
+
+Dyslexia diagnosis and treatment
+A growing concern among educators is the increasing incidence of dyslexia in school and
+in higher education. Do the increasing rates of this learning disorder reﬂect increased
+awareness of the condition or do they reﬂect over-diagnosis, particularly among those
+with the ﬁnancial means to seek private educational assessment? This is the nub of an
+argument that has surfaced in a variety of forms since the ﬁrst cases of reading disorder
+were described (Kirby, 2019). One of the main criticisms of those who are concerned with
+labelling dyslexia as a categorical impairment is that there are no clear cut-oﬀ criteria
+behind the diagnosis (Elliott & Grigorenko, 2014). DSM5 (American Psychiatric Association,
+2013) stipulates that the term should only be used if there is restricted progress in
+
+OXFORD REVIEW OF EDUCATION
+
+507
+
+learning (to read/spell) and no catch-up with peers despite extra help at home or school;
+there should also be a low academic achievement. While precise criteria are avoided given
+the dimensional nature of the disorder, the manual does suggest that achievement (e.g. in
+literacy or numeracy skills) more than 1.5 standard deviations below the mean (a standard
+score of 78) assures the greatest diagnostic certainty; it also goes on to assert various
+exclusionary criteria and continues to advocate the importance of clinical judgement.
+Arguably, it is the issue of clinical judgement which lies behind the dyslexia debate –
+and yet for all clinical conditions including infections and diseases, clinical judgement
+needs to be exercised before treatment can be determined.1 We should also emphasise
+that dimensional disorders are common in many other areas of medicine and psychology – there are no clear cut-oﬀs for diagnosing hypertension, obesity or depression; but
+for each of these very real conditions there need to be clinical decisions made about when
+an individual needs treatment. The same is true for dyslexia. To avoid the issue of clinical
+judgement and poor reliability around diagnostic thresholds, some have advocated the
+use of ‘response to intervention’ as an approach to diagnosis (Fletcher & Vaughn, 2009).
+Such an approach undoubtedly makes sense – if a child responds to treatment positively
+and can catch up with peers, then the label of ‘dyslexia’ is not appropriate because the
+condition is not persistent. Such children might be regarded as ‘instructional causalities’ –
+not having been taught properly in the ﬁrst place or having suﬀered a set-back, for
+example, because of a poor command of the language in the case of migration. However,
+implementation of the response-to-intervention approach has not borne the anticipated
+fruit; children who fail to respond to well-founded intervention are just as likely to be
+identiﬁed following a comprehensive assessment with objective standards for referral for
+intervention as after their poor response to intervention – so why wait? Moreover, the
+characteristics of ‘treatment resistors’ include the phonological deﬁcits that characterise
+dyslexia (Al Otaiba et al., 2014; Vellutino et al., 2004).
+So where does this leave the issue of diagnosis and more broadly the practice of labelling
+a child or adult as having dyslexia? First, we propose that the term dyslexia should not be used
+as a shorthand for ‘reading disorder’ but should be used to refer to a diﬃculty with decoding
+and spelling ﬂuency which is evident from the early school years and persistent over time.
+Second, it should aﬀect academic functioning, such that progress is less good in literacy-based
+areas of the curriculum than that of peers in a similar setting. Third, if there are co-occurring
+features, these should be labelled as such but should not be considered core to the ‘diagnosis’.
+Finally, the diagnosis should be qualiﬁed as mild (fully compensated when appropriate
+arrangements are in place), moderate or severe; we hypothesise that those with ‘severe’
+diﬃculties are often those with a range of comorbid conditions.
+In a similar vein, Miciak et al. (2014) criticised approaches that focus on a range of
+features in order to ‘diagnose’ dyslexia. Rather, they suggest that assessments should
+focus on the deﬁning symptoms of reading diﬃculties, the functional impairments and
+co-occurring conditions. Such clarity is important if the causes of dyslexia are to be
+properly understood and the concept is to be fully embraced in educational policy.
+Another issue that has concerned those who do not support the use of the term ‘dyslexia’
+is the fact that the types of intervention that are known to be helpful do not diﬀer from
+the interventions that are useful for other poor readers. This is, however, a simplistic view.
+Dyslexia does equate with poor decoding and word reading, and therefore to say it
+requires similar treatment to poor reading is a tautology. The most robust evidence for
+
+508
+
+M. J. SNOWLING ET AL.
+
+the eﬀectiveness of reading interventions comes from randomised trials (e.g. Connor
+et al., 2013; Hulme & Melby-Lervåg, 2015; Melby-Lervåg & Lervåg, 2014). To date, the
+evidence suggests that the most eﬀective interventions for children with dyslexia are
+phonologically based, involving training in phoneme awareness and letter knowledge
+combined with structured reading practice (McArthur et al., 2012). These interventions
+tackle the decoding deﬁcit in dyslexia directly. However, there is a dearth of evidence for
+the eﬃcacy of interventions to improve spelling and writing ﬂuency – future research
+must address these important questions as a matter of urgency. There is also a need for
+treatment plans to consider the comorbidities that are associated with dyslexia, particularly language problems, and to consider their impact on the developing reading system.
+If these are not addressed, then response to intervention is likely to be poor.
+In summary, elaborate comprehensive assessments are not required to identify a child
+as in need of reading intervention. What needs to be recognised is that reading is
+a dimension that is correlated with other skills and co-occurring diﬃculties (comorbidities) need separate management.
+
+Conclusions: when is dyslexia a disability?
+The term dyslexia can be properly used to describe children who experience problems
+learning to read and write; often when a basic level of reading and spelling ability is
+established, there are persisting problems with reading ﬂuency. Dyslexia is a dimensional
+disorder, however, with no clear cut-oﬀ from poor reading. This does not mean it is not
+a handicap. If diﬃculties in learning and in developing ﬂuency persist, then we would argue
+the term should be used, not least to signal the need for intervention. In addition, it should be
+recognised that assessment is needed to identify co-occurring problems; if present, these may
+require separate management, but they do not deﬁne dyslexia. The need to intervene is clear:
+children with poor reading are at elevated risk for a range of emotional and behavioural
+diﬃculties. Moreover, longer-term follow-up studies make clear that problems with literacy
+persist into adulthood, and are associated with lower levels of educational attainment, higher
+rates of unskilled employment, and often periods of unemployment (e.g. Maughan et al., this
+issue). At the same time, since some individuals with dyslexia can compensate for their
+diﬃculties, dyslexia need only be disabling if the individual remains unable to cope with the
+literacy demands of study or work even when appropriate arrangements are in place.
+How dyslexia is recognised by the education system, and by society more generally,
+has changed over its history, and continues to evolve. Here we have aimed to clarify some
+of the consequences that have followed from dropping the IQ-discrepancy deﬁnition of
+dyslexia. While questions remain, how reading develops and how best to teach it are now
+well understood (Castles et al., 2018) and policy implications are clear (Seidenberg, 2017).
+Despite best eﬀorts, some children will continue to ﬁnd reading diﬃcult. Optimal outcomes for these children require us to embrace the dimensional nature of dyslexia and its
+associated complexities; to fail to do so is negligent and arguably morally indefensible.
+
+Note
+1. Michael Rutter, contribution of oral history to the Dyslexia Archive, 2019.
+
+OXFORD REVIEW OF EDUCATION
+
+509
+
+Disclosure statement
+No potential conﬂict of interest was reported by the authors.
+
+Funding
+This work was funded by the Wellcome Trust Institutional Strategic Support Fund and supported by
+St. John’s College, University of Oxford.
+
+Notes on contributors
+Margaret J. Snowling is President of St. John’s College and Professor of Psychology, University of
+Oxford. She is also professionally qualiﬁed as a clinical psychologist. Her research on children’s
+reading and language is at the interface of psychology and education.
+Maggie was awarded the British Psychological Society Presidents’ Award (2003) and the Samuel
+T Orton Award of the International Dyslexia Association (2005); she is Past-President of the Society
+for the Scientiﬁc Study of Reading and former Joint Editor of the Journal of Child Psychology and
+Psychiatry. She served on Sir Jim Rose’s Expert Advisory Group on provision for Dyslexia, was advisor
+to the Phonics Screening Check and Reception Baseline Assessment in England and an expert
+member of the Education for All: Fast Track Initiative group in Washington DC in (2011).
+Maggie has been awarded honorary doctorates from Goldsmiths London, University College
+London, Warwick and Bristol Universities for contributions to the science of reading and
+dyslexia.
+She is Fellow of the British Academy, Fellow of the Academy of Medical Sciences and Fellow
+of the Academy of Social Sciences. She was appointed CBE for services to science and the
+understanding of dyslexia in 2016.
+Charles Hulme is Professor of Psychology and Education at the University of Oxford. His research
+interests are in reading, language and memory and their development and he is an expert on
+randomised controlled trials in Education. Publications include a number of assessment materials
+including the York Assessment of Reading for Comprehension (2009), the Phonological Abilities
+Test (1997), Sound Linkage (2014) and The Test of Basic Arithmetic and Numeracy Skills (2015) as
+well as several books dealing with various aspects of reading development. He is a former Editorin-Chief of the journal ‘Scientiﬁc Studies of Reading’ and a former Senior Editor of the Association
+of Psychological Science’s ﬂagship journal, Psychological Science. In 2009 he published
+‘Developmental disorders of language, learning and cognition’ (Wiley-Blackwell; co-authored
+with Maggie Snowling). He received the Feitelson Research Award from the International
+Reading Association (1998), the Marion Welchman International Award for Contributions to the
+study of Dyslexia from the British Dyslexia Association (2016) and the Society for the Scientiﬁc
+Studies of Reading Distinguished Scientiﬁc Contributions Award (2019). He is a Fellow of the
+British Academy and of the Academy of Social Sciences, holds an honorary doctorate from the
+University of Oslo (2014), and is a member of Academia Europea.
+Kate Nation is Professor of Experimental Psychology at the University of Oxford and a Fellow of St
+John’s College, Oxford. Her research is concerned with with language processing, especially reading
+development. She is interested in how children learn to read words and comprehend text, and more
+generally, the relationship between spoken language and written language. Her research spans
+both typical and atypical development. A key aim at present is to investigate the mechanisms
+involved in the transition from novice to expert. She also studies language processing in adults,
+addressing the issue of how skilled behaviour emerges via language learning experience. Kate has
+contributed to building links between psychological research and educational policy and practice.
+She has served on a number of Editorial Boards and her research has been recognised by awards
+
+510
+
+M. J. SNOWLING ET AL.
+
+from the British Psychological Society and the Experimental Psychology Society. For more information
+see www.readoxford.org and follow her on twitter @ReadOxford.
+
+ORCID
+Margaret J. Snowling
+
+http://orcid.org/0000-0003-0836-3861
+
+References
+Adlof, S. M., & Hogan, T. P. (2019). If we don’t look, we won’t see: Measuring language development
+to inform literacy instruction. Policy Insights from the Behavioral and Brain Sciences, 6(2), 210–217.
+https://doi.org/10.1177/2372732219839075
+Al Otaiba, S., Wagner, R. K., & Miller, B. (2014). “Waiting to fail” redux: Understanding inadequate
+response to intervention. Learning Disability Quarterly, 37(3), 129–133. https://doi.org/10.1177/
+0731948714525622
+American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders (5th ed.).
+Angold, A., Costello, E. J., & Erkanli, A. (1999). Comorbidity. Journal of Child Psychology and Psychiatry,
+40(1), 57–87. https://doi.org/10.1111/1469-7610.00424
+Bannatyne, A. (1974). Diagnosis: a note on recategorization of the wisc scaled scores. Journal Of
+Learning Disabilities, 7, 272-274.
+Bishop, D. V., Snowling, M. J., Thompson, P. A., & Greenhalgh, T. (2017). Phase 2 of CATALISE:
+A multinational and multidisciplinary Delphi consensus study of problems with language development: Terminology. Journal of Child Psychology and Psychiatry, 58(10), 1068–1080. https://doi.
+org/10.1111/jcpp.12721
+Bishop, D. V. M., & Adams, C. (1990). A prospective study of the relationship between speciﬁc
+language impairment, phonological disorders and reading retardation. Journal of Child
+Psychology and Psychiatry, 31(7), 1027–1050. https://doi.org/10.1111/j.1469-7610.1990.tb00844.x
+Bishop, D. V. M., & Snowling, M. J. (2004). Developmental dyslexia and speciﬁc language impairment:
+Same or diﬀerent? Psychological Bulletin, 130(6), 858–888. https://doi.org/10.1037/0033-2909.130.
+6.858
+Carroll, J., Maughan, B., Goodman, R., & Meltzer, H. (2005). Literacy diﬃculties and psychiatric
+disorders: Evidence for co-morbidity. Journal of Child Psychology and Psychiatry, 46(5), 524–532.
+https://doi.org/10.1111/j.1469-7610.2004.00366.x
+Castles, A., Rastle, K., & Nation, K. (2018). Ending the reading wars: Reading acquisition from novice
+to expert. Psychological Science in the Public Interest, 19(1), 5–51. https://doi.org/10.1177/
+1529100618772271
+Catts, H. W., Adlof, S. M., Hogan, T. P., & Ellis Weismer, S. (2005). Are speciﬁc language impairment
+and dyslexia distinct disorders? Journal of Speech, Hearing and Language Research, 48(6),
+1378–1396. https://doi.org/10.1044/1092-4388(2005/096)
+Connor, C. M., Morrison, F. J., Fishman, B., Crowe, E. C., Al Otaiba, S., & Schatschneider, C. (2013).
+A longitudinal cluster-randomized controlled study on the accumulating eﬀects of individualized
+literacy instruction on students’ reading from ﬁrst through third grade. Psychological Science, 24
+(8), 1408–1419. https://doi.org/10.1177/0956797612472204
+Elliott, J. G., & Grigorenko, E. L. (2014). The dyslexia debate. Cambridge University Press.
+Evans, R. J. W. (2020). A Pioneer in Context: T R Miles and the Bangor Dyslexia Unit. Oxford Review of
+Education, 46(4), this issue.
+Fletcher, J. M., & Vaughn, S. (2009). Response to intervention: Preventing and remediating academic
+diﬃculties. Child Development Perspectives, 3(1), 30–37. https://doi.org/10.1111/j.1750-8606.2008.
+00072.x
+Francis, D. A., Caruana, N., Hudson, J. L., & McArthur, G. M. (2019). The association between poor
+reading and internalising problems: A systematic review and meta-analysis. Clinical Psychology
+Review, 67, 45–60. https://doi.org/10.1016/j.cpr.2018.09.002
+
+OXFORD REVIEW OF EDUCATION
+
+511
+
+Gillberg, I., & Gillberg, C. (1989). Children with preschool minor neurodevelopmental disorders. IV:
+Behaviour and school achievement at age 13. Developmental Medicine and Child Neurology, 31(1),
+3–13. https://doi.org/10.1111/j.1469-8749.1989.tb08406.x
+Göbel, S. M., & Snowling, M. J. (2010). Number-processing skills in adults with dyslexia. Quarterly
+Journal of Experimental Psychology, 63(7), 1361–1373. https://doi.org/10.1080/
+17470210903359206
+Gooch, D. C., Hulme, C., Nash, H. M., & Snowling, M. J. (2014). Comorbidities in preschool children at
+risk of dyslexia: The role of language ability. Journal of Child Psychology and Psychiatry, 55(3),
+237–246. https://doi.org/10.1111/jcpp.12139
+Griﬃths, Y. M., & Snowling, M. J. (2001). Auditory word identiﬁcation and phonological skills in
+dyslexic and average readers. Applied Psycholinguistics, 22(3), 419–439. https://doi.org/10.1017/
+S0142716401003071
+Harm, M. W., & Seidenberg, M. S. (1999). Phonology, reading acquisition and dyslexia: Insights from
+connectionist models. Psychological Review, 106(3), 491–528. https://doi.org/10.1037/0033-295X.
+106.3.491
+Hulme, C., Bowyer-Crane, C., Carroll, J., Duﬀ, F., & Snowling, M. J. (2012). The causal role of phoneme
+awareness and letter-sound knowledge in learning to read: Combining intervention studies with
+mediation analyses. Psychological Science, 23(6), 572–577. https://doi.org/10.1177/
+0956797611435921
+Hulme, C., & Melby-Lervåg, M. (2015) Educational interventions for children’s learning diﬃculties. In
+Thapar, A., Pine, D., Lackman, J., Scott, S., Snowling, M.J. & Taylor, E. (Eds). Rutter’s Textbook of
+Child and Adolescent Psychiatry (6th Edition), (pp 533-544). London: Wiley-Blackwell.
+Hulme, C., Nash, H. M., Gooch, D., Lervåg, A., & Snowling, M. J. (2015). The foundations of literacy
+development in children at familial risk of dyslexia. Psychological Science, 26(12), 1877–1886.
+https://doi.org/10.1177/0956797615603702
+Kirby, P. (2020 Dyslexia debated, then and now: a historical perspective on the dyslexia debate.
+Oxford Review of Education, 46(4), this issue.).
+Kirby, P. (2019). Literacy, advocacy and agency: The campaign for political recognition of dyslexia in
+Britain (1962–1997). Social History of Medicine. hkz030. https://doi.org/10.1093/shm/hkz030
+Kohnen, S., Nickels, L., Castles, A., Friedmann, N., & McArthur, G. M. (2012). When ‘slime’ becomes
+‘smile’: Developmental letter position dyslexia in English. Neuropsychologia, 50(14), 3681–3692.
+https://doi.org/10.1016/j.neuropsychologia.2012.07.016
+Landerl, K., & Moll, K. (2010). Comorbidity of learning disorders: Prevalence and familial transmission.
+Journal of Child Psychology and Psychiatry, 51(3), 287–294. https://doi.org/10.1111/j.1469-7610.
+2009.02164.x
+Malone, S. A., Burgoyne, K., & Hulme, C. (in press). Number knowledge and the approximate number
+sense are two critical foundations for early arithmetic development. Journal of Educational Psychology.
+https://doi.org/10.1037/edu0000426
+Maughan, B., Rutter, M., & Yule, G. (2020). The Isle of Wight studies: the scope and scale of reading
+diﬃculties. Oxford Review of Education, 46(4), this issue.
+McArthur, G., Eve, P. M., Jones, K., Banales, E., Kohnen, S., Anandakumar, T., & Castles, A. (2012).
+Phonics training for English-speaking poor readers. Cochrane Database of Systematic Reviews, 12.
+https://doi.org/10.1002/14651858.CD009115.pub2
+McArthur, G. M., Hogben, J. H., Edwards, V. T., Heath, S. M., & Mengler, E. D. (2000). On the ‘speciﬁcs’
+of speciﬁc reading disability and speciﬁc language impairment. Journal of Child Psychology and
+Child Psychiatry, 41(7), 869–874. https://doi.org/10.1111/1469-7610.00674
+Melby-Lervåg, M., & Lervåg, A. (2014). Eﬀects of educational interventions targeting reading comprehension and underlying components. Child Development Perspectives, 8(2), 96–100. https://
+doi.org/10.1111/cdep.12068
+Miciak, J., Fletcher, J. M., Stuebing, K. K., Vaughn, S., & Tolar, T. D. (2014). Patterns of cognitive
+strengths and weaknesses: Identiﬁcation rates, agreement, and validity for learning disabilities
+identiﬁcation. School Psychology Quarterly, 29(1), 21–37. https://doi.org/10.1037/spq0000037
+
+512
+
+M. J. SNOWLING ET AL.
+
+Moll, K., Landerl, K., Snowling, M. J., & Schulte-Körne, G. (2018). Understanding comorbidity of
+learning disorders. Journal of Child Psychology and Psychiatry, 60(3), 286–294. https://doi.org/10.
+1111/jcpp.12965
+Moll, Kristina, Snowling, M J.., & Hulme, Charles. (2020). Introduction to the special issue “comorbidities between reading disorders and other developmental disorders”. Scientiﬁc Studies Of Reading,
+24(1), 1–6. doi: 10.1080/10888438.2019.1702045
+Morais, J., & Kolinsky, R. (2005). Literacy and cognitive change. In M. J. Snowling & C. Hulme (Eds.),
+The science of reading: A handbook (pp. 188–204). Blackwell.
+Naidoo, S. (1972). Speciﬁc dyslexia. Pitman Publishing.
+Nation, K., & Mak, M. H. C. (2019). Orthographic learning and learning to read: Implications for
+developmental dyslexia. In D. L. Compton, J. Washington, & P. McCardle (Eds.), Dyslexia 101:
+Revisiting etiology, diagnosis, treatment and policy, pp.71–81. Brookes Publishing.
+Nation, K., & Snowling, M. J. (1998). Semantic processing and the development of word-recognition
+skills: Evidence from children with reading comprehension diﬃculties. Journal of Memory and
+Language, 39(1), 85–101. https://doi.org/10.1006/jmla.1998.2564
+Orton, S. T. (1937). Reading, writing and speech problems in children. Chapman & Hall.
+Pennington, B. F. (2006). From single to multiple deﬁcit models of developmental disorders.
+Cognition, 101(2), 385–413. https://doi.org/10.1016/j.cognition.2006.04.008
+Pennington, B. F., & Bishop, D. (2009). Relations among speech, language, and reading disorders.
+Annual Review of Psychology, 60(1), 283–306. https://doi.org/10.1146/annurev.psych.60.110707.
+163548
+Perry, C., Zorzi, M., & Ziegler, J. C. (2019). Understanding dyslexia through personalized large-scale
+computational models. Psychological Science, 30(3), 386–395. https://doi.org/10.1177/
+0956797618823540
+Rochelle, K. S. H., & Talcott, J. B. (2006). Impaired balance in developmental dyslexia? A meta-analysis
+of contending evidence. Journal of Child Psychology and Psychiatry, 47(11), 1159–1166. https://
+doi.org/10.1111/j.1469-7610.2006.01641.x
+Rose, J. (2009). Identifying and teaching children and young people with dyslexia and literacy diﬃculties
+(DCSF-00659-2009). DCSF Publications. http://webarchive.nationalarchives.gov.uk/
+20091004042342/http://www.dcsf.gov.uk/jimroseanddyslexia/
+Saksida, A., Iannuzzi, S., Bogliotti, C., Chaix, Y., Démonet, J. F., Bricout, L., Billard, C., Nguyen-Morel, M.A., Le Heuzey, M.-F., Soares-Boucaud, I., George, F., Ziegler, J. C., & Ramus, F. (2016). Phonological
+skills, visual attention span, and visual stress in developmental dyslexia: Insights from
+a population of French children. Developmental Psychology, 52(10), 1503–1516. https://doi.org/
+10.1037/dev0000184
+Seidenberg, M. (2017). Language at the speed of sight: How we read, why so many cannot, and what
+can be done about it. Basic Books.
+Seidenberg, M. S., & McClelland, J. L. (1989). A distributed, developmental model of word recognition and naming. Psychological Review, 96(4), 523. https://doi.org/10.1037/0033-295X.96.4.523
+Shankweiler, D., Liberman, I. Y., Mark, L. S., Fowler, C. A., & Fischer, F. W. (1979). The speech code and
+learning to read. Journal of Experimental Psychology: Human Learning and Memory, 5(6), 531–545.
+https://doi.org/10.1037/0278-7393.5.6.531
+Snowling, M., & Hulme, C. (1989). A longitudinal case study of developmental phonological dyslexia.
+Cognitive Neuropsychology, 6(4), 379–401. https://doi.org/10.1080/02643298908253289
+Snowling, M., & Hulme, C. (1994). The development of phonological skills. Philosophical Transactions
+of the Royal Society of London. Series B: Biological Sciences, 346(1315), 21–27. https://doi.org/10.
+1098/rstb.1994.0124
+Snowling, M. J. (2019). Dyslexia: A very short introduction. Oxford University Press.
+Snowling, M. J., Hayiou-Thomas, M. E., Nash, H. M., & Hulme, C. (2019, October 29). Dyslexia and
+developmental language disorder: Comorbid disorders with distinct eﬀects on reading
+comprehension. Journal of Child Psychology and Psychiatry, published online. https://doi.org/10.
+1111/jcpp.13140
+Snowling, M. J., & Melby-Lervåg, M. (2016). Oral language deﬁcits in familial dyslexia: A meta-analysis
+and review. Psychological Bulletin, 142(5), 498–545. https://doi.org/10.1037/bul0000037
+
+OXFORD REVIEW OF EDUCATION
+
+513
+
+Snowling, M. J., Nash, H. M., Gooch, D. C., Hayiou-Thomas, M. E., & Hulme, C., & Wellcome Language
+and Reading Project Team. (2019). Developmental outcomes for children at high risk of dyslexia
+and children with developmental language disorder. Child Development, 90(5), e548–e564. doi:
+10.1111/cdev.13216
+Stanovich, K. E. (1986). Matthew eﬀects in reading: Some consequences of individual diﬀerences in
+the acquisition of literacy. Reading Research Quarterly, 21(4), 360–364. https://doi.org/10.1177%
+2F0022057409189001-204
+Stanovich, K. E. (1991). Discrepancy deﬁnitions of reading disability: Has intelligence led us astray?.
+Reading Research Quarterly, 26(1), 7–29. https://doi.org/10.2307/747729
+Stanovich, K. E., & Siegel, L. S. (1994). Phenotypic performance proﬁle of children with reading
+disabilities: A regression-based test of the phonological-core variable-diﬀerence model. Journal
+of Educational Psychology, 86(1), 24–53. https://doi.org/10.1037/0022-0663.86.1.24
+Vellutino, F. R., Fletcher, J. M., Snowling, M. J., & Scanlon, D. M. (2004). Speciﬁc reading disability
+(dyslexia): What have we learned in the past four decades? Journal of Child Psychology &
+Psychiatry, 45(1), 2–40. https://doi.org/10.1046/j.0021-9630.2003.00305.x
+Wechsler, D. (1974). Selected papers of David Wechsler. Academic Press.
+White, S., Milne, E., Rosen, S., Hansen, P., Swettenham, J., Frith, U., & Ramus, F. (2006). The role of
+sensorimotor impairments in dyslexia: A multiple case study of dyslexic children. Developmental
+Science, 9(3), 237–255. https://doi.org/10.1111/j.1467-7687.2006.00483.x
+Whyte, W. (2020). Class and Classiﬁcation: The London Word Blind Centre for Dyslexic Children,
+1962-1972. Oxford Review of Education, 46(4), this issue.
+
+
